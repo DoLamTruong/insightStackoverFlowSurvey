@@ -17,11 +17,11 @@ Every year, Stack Overflow conducted a survey to be able to know better the IT l
 
 # Results
 
-Based on the data provided by Stack Overflow, we have answered some question on the [notebook](https://github.com/thekaell99/project_1/notebook.ipynb)
+Based on the data provided by Stack Overflow Survey, we have analysed and answered some question on the [notebook](https://github.com/DoLamTruong/insightStackoverFlowSurvey/blob/main/stackoverflow.ipynb)
 
 # Blog
 
-[Data Science Blog](https://medium.com/@thanhthang30041999/analysis-from-stack-overflow-survey-39109ebbb432)
+[Blog](https://medium.com/@dolamtruong2304/insights-from-2017-stack-overflow-survey-9572c1feb35)
 
 ## Summary of the analysis
 
